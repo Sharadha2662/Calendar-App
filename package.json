@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "homepage": "https://yourusername.github.io/calendar-app",
+  "homepage": "https://SharadhaD.github.io/calendar-app",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
